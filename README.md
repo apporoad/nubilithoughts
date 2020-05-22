@@ -28,10 +28,12 @@ nubility thoughts for coding  新时代顶级编程思想
 ```
 Q:Why do it?
 A:Just do it.
-
+```
+```
 Q:Why you did that?
 A:Because i can.
-
+```
+```
 Q:Why do you like shit?
 A:No,No,I think it's beautiful.
 ```
