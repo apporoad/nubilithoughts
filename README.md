@@ -22,3 +22,17 @@ nubility thoughts for coding  新时代顶级编程思想
 1. just do it
 2. because i can
 3. you are beautiful
+
+## 场景应用
+
+```
+Q:Why do it?
+A:Just do it.
+
+Q:Why you did that?
+A:Because i can.
+
+Q:Why do you like shit?
+A:No,No,I think it's beautiful.
+```
+
