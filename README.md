@@ -19,7 +19,7 @@
 
 日月同辉，地广天空
 
-J G<span style="margin-left:12px">风格</span>，响彻寰宇
+J G 风 格，响彻寰宇
 
 上可通天，下可遁地
 
@@ -27,7 +27,7 @@ J G<span style="margin-left:12px">风格</span>，响彻寰宇
 
 编码于此，天造地设
 
-bug退散，性能炸天
+bug 退散，性能炸天
 
 先于他人，功能速出
 
