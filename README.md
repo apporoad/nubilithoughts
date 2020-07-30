@@ -1,7 +1,7 @@
 # nubilithoughts
 > nubility thoughts for coding  新时代顶级编程思想
 
-![先](https://server.isaacxu.com:3001/exca/getImg?code=tqvy0t)
+![先](http://7u.isaacxu.com/tqvy0t.png)
 
 
 # 目录
